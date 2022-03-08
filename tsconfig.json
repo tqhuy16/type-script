@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "target": "ES6",
+    "outDir" : "convertFromTS",
+    "watch": true,
+    "removeComments": false
+  },
+  "exclude": ["convertFromTS"] //danh sach thu muc khong con convert sang JS
+}
